@@ -1,0 +1,11 @@
+.cache
+.tox
+__pycache__
+*.egg-info
+*.pyc
+bin
+dist
+include
+lib
+pip-selfcheck.json
+pyvenv.cfg
