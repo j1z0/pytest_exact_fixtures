@@ -4,7 +4,7 @@ Make pytest fixtures work more like zope.testrunner layers:
 
 https://pypi.python.org/pypi/zope.testrunner#layers
 '''
-from _pytest.python import (
+from _pytest.fixtures import (
     scopes,
     scopenum_function,
 )
